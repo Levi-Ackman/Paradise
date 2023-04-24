@@ -1,0 +1,1 @@
+{"model": "Nonstationary_Transformer", "batch_size": "32", "lr": "5e-05", "Optim": "Adam", "mse": 0.49815043807029724, "mae": 0.5421708822250366, "rmse": 0.7057977318763733, "mape": 1.539790153503418, "mspe": 29.487783432006836}
